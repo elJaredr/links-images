@@ -1,2 +1,2 @@
 # links-images
-links and images repo for html
+This repo is for git practice only
